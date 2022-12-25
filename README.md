@@ -1,1 +1,1 @@
-# CardWithDelivery
+# CardWithDelivery [![Build status](https://ci.appveyor.com/api/projects/status/gckqkkai4ijriugq/branch/main?svg=true)](https://ci.appveyor.com/project/elenabulavina90/cardwithdelivery/branch/main)
